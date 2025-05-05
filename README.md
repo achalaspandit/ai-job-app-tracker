@@ -7,7 +7,16 @@ A simple AI-powered assistant that helps you automatically extract job details f
 * Logs results into a Google Drive CSV file with consistent formatting.
 * Easy to reuse—just plug in new job links, and it handles the rest.
 ---
+## 📸Demo
+* Add links when prompted
 
+  <img width="576" alt="image" src="https://github.com/user-attachments/assets/80337e16-a9d4-4af0-83c3-6e1d1b2a8692" />
+
+* Get all job related details organized
+  
+  <img width="758" alt="image" src="https://github.com/user-attachments/assets/d8cb692d-dc86-4a26-b005-8f9962d7075a" />
+
+---
 ## ⚙️ Setup & Usage
 Follow these steps to get started with the AI Job Application Tracker in minutes:
 
