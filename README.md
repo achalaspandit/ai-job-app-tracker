@@ -22,7 +22,7 @@ Follow these steps to get started with the AI Job Application Tracker in minutes
 
 1. Clone the github repository
 ```
-git clone https://github.com/your-username/job-app-tracker-ai.git
+https://github.com/achalaspandit/ai-job-app-tracker.git
 ```
 
 2. Open the Notebook in Google Colab
